@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Wetatch</string>
+    <string name="weather">Weather</string>
+    <string name="today">Today</string>
+    <string name="today_value">-2 С</string>
+    <string name="tomorrow">Tomorrow</string>
+    <string name="tomorrow_value">-4 С</string>
+    <string name="after_tomorrow">Day after tomorrow</string>
+    <string name="after_tomorrow_value">-10 С</string>
+    <string name="finalyTableSity">City:</string>
+    <string name="suggestionInputSityName">Enter the title</string>
+    <string name="showWeather">Show weather</string>
+    <string name="tableTemperature">Temperature:</string>
+    <string name="switchAtmos">Show pressure:</string>
+    <string name="switchWind">Show wind speed</string>
+    <string name="remember">Remember</string>
+</resources>
